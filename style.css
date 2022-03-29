@@ -1,0 +1,30 @@
+img {
+    width: 150px;
+    border-radius: 75px;
+    /* float: bottom; */
+    margin-left: 45%;
+    /* display: block; */
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+p{
+    font-weight: initial;
+    color: #D52AD0;
+    text-align: center;
+
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #842AD5;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #842AD5;
+    text-align: center;
+    
+}
